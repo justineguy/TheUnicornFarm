@@ -1,0 +1,77 @@
+@CHARSET "ISO-8859-1";
+#farm {
+	width:2100px;
+	height:100%;
+	background-color: olive;
+}
+.unicorn1{
+	width: 100%;
+	height: 180px;
+	background-image: url("http://img09.deviantart.net/11d5/i/2012/354/b/9/unicorn_stock_001_by_blacknightingale81-d5olwxi.png");
+	background-repeat:no-repeat;
+	background-size: 180px;
+}
+
+.unicorn2{
+	width: 100%;
+	height: 180px;
+	background-image: url("http://www.pngall.com/wp-content/uploads/2016/06/Unicorn-Transparent-180x180.png");
+	background-repeat:no-repeat;
+}
+
+.unicorn3{
+	width: 100%;
+	height: 180px;
+	background-image: url("http://www.pngall.com/wp-content/uploads/2016/06/Unicorn-PNG-Picture-180x180.png");
+	background-repeat:no-repeat;
+}
+
+.unicorn4{
+	width: 100%;
+	height: 180px;
+	background-image: url("http://www.pngall.com/wp-content/uploads/2016/06/Unicorn-Free-Download-PNG-180x180.png");
+	background-repeat:no-repeat;
+}
+
+.unicorn5{
+	width: 100%;
+	height: 180px;
+	background-image: url("http://www.pngall.com/wp-content/uploads/2016/06/Unicorn-Free-PNG-Image-180x180.png");
+	background-repeat:no-repeat;
+}
+
+.barn{
+	float:left;
+	width:700px;
+	height:600px;
+	background-image: url("http://hdtravelpictures.com/wp-content/uploads/2011/04/1101.jpg");
+	background-size: 700px 600px;
+	background-repeat:no-repeat;
+}
+
+.stable{
+	float:left;
+	width:700px;
+	height:600px;
+	background-image: url("http://www.allsoppdesign.com/graphics/largebarn/moorestable.jpg");
+	background-size: 700px 600px;
+	background-repeat:no-repeat;
+}
+
+.pasture{
+	float:left;
+	width:700px;
+	height:600px;
+	background-image: url("http://miriadna.com/desctopwalls/images/max/Pasture.jpg");
+	background-size: 700px 600px;
+	background-repeat:no-repeat;
+}
+
+.titles{
+	border: solid 2px;
+	background-image: url("http://www.wzchutian.com/wp-content/uploads/2/2-spectacular-plank-wood-countertop-plank-wood-vinyl-flooring-plank-wood-veneer-plank-of-wood-uk-plank-of-wood-texture-plank-wood-table-plank-wood-tile-plank-wood-table-tops-plank-of-wood-ska.jpg");
+	background-repeat:no-repeat;
+	background-size:contain;
+	text-align: center;
+	font-size: 50px; 
+}
